@@ -1,4 +1,4 @@
-baseURL = "danielsantiago.com.mx"
+baseURL = ""
 languageCode = "en-us"
 title = "Daniel Santiago"
 theme = "hugo-them-nix"
