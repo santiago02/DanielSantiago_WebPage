@@ -4,11 +4,11 @@ title = "Daniel Santiago"
 theme = "hugo-them-nix"
 [menu]
   [[menu.header]]
-    name = "POST"
+    name = "Post"
     weight = 0
     url = "/post"
   [[menu.header]]
-    name = "about"
+    name = "Acerca de"
     weight = 1
     url = "/about"
 
