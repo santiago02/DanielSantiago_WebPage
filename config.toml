@@ -13,7 +13,7 @@ theme = "hugo-them-nix"
     url = "/about"
 
 [params]
-  GithubID = "https://github.com/santiago02"
+  GithubID = "santiago02"
   TwitterID = "your_twitter"
   LinkedInID = "your_linkedin"
   GoogleplusID = "your_googleplus"
