@@ -1,33 +1,28 @@
-baseURL = "http://example.org/"
+baseURL = "danielsantiago.com.mx"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Daniel Santiago"
 theme = "hugo-them-nix"
+[menu]
+  [[menu.header]]
+    name = "post"
+    weight = 0
+    url = "/post"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
+
 [params]
-  GnuPGFingerprint = "your_gpg_fingerprint"
-  StackExchangeID = "your_stackexchange_id"
-  StackOverflowID = "your_stackoverflow_id"
   GithubID = "your_github"
-  GitlabId = "your_gitlab"
-  BitbucketID = "your_bitbucket_id"
   TwitterID = "your_twitter"
-  CodepenID = "your_codepen"
   LinkedInID = "your_linkedin"
   GoogleplusID = "your_googleplus"
   FacebookID = "your_facebook"
-  InstagramID = "your_instagram"
   TelegramID = "your_telegram"
-  Name = "your_name"
-  HeaderUsername = "username"
-  HeaderHostname = "hostname"
+  Name = "Mr Hugo"
+  HeaderUsername = "hugo"
+  HeaderHostname = "hugo"
   Email = "your_email"
-  About = "info_about_you"
-  ProfilePicture = "profile_picture_url"
-  GoogleAnalytics = "your_google_analytics_id"
-  SlackURL = "https://join.slack.com/..."
-  PayPalMeID = "https://www.paypal.me/..."
-  XingURL = "https://www.xing.com/profile/..."
-[menu]
-  [[menu.header]]
-    name = "posts"
-    weight = 0
-    url = "/posts"
+  About = "Hi I'm Hugo and this is my website. I am a developer, writer and family man. I like developing websites using Hugo, sports, nature, photography and travel. On this websites you can expect my projects and blog posts about everything I love. Enjoy!"
+  ProfilePicture = "/profile.jpg"
+  SlackURL = "your_slack_invite_url"
