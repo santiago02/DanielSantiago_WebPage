@@ -1,5 +1,5 @@
-baseURL = "/"
 GoogleAnalytics = "UA-112069650-1"
+baseURL = "/"
 languageCode = "en-us"
 theme = "hugo-them-nix"
 title = "Daniel Santiago"
