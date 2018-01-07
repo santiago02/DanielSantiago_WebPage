@@ -1,7 +1,6 @@
 ---
-title: "About"
-date: 2017-12-29T23:33:05-06:00
-draft: false
----
+title: About
+date: 2017-12-29 23:33:05 -0600
 
-Hola
+---
+Hola este el primer tema que hago con forestry
