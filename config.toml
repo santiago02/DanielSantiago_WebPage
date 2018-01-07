@@ -1,29 +1,26 @@
 baseURL = "/"
-languageCode = "en-us"
-title = "Daniel Santiago"
-theme = "hugo-them-nix"
 googleAnalytics = "UA-112069650-1"
-
-[menu]
-  [[menu.header]]
-    name = "Post"
-    weight = 0
-    url = "/post"
-  [[menu.header]]
-    name = "Acerca de"
-    weight = 1
-    url = "/about"
-
+languageCode = "en-us"
+theme = "hugo-them-nix"
+title = "Daniel Santiago"
+[[menu.header]]
+name = "Acerca de"
+url = "/about"
+weight = 1
+[[menu.header]]
+name = "Post"
+url = "/post"
+weight = 0
 [params]
-  GithubID = "santiago02"
-  TwitterID = "your_twitter"
-  LinkedInID = "your_linkedin"
-  GoogleplusID = "your_googleplus"
-  FacebookID = "your_facebook"
-  Name = "Daniel Santiago"
-  HeaderUsername = "Daniel"
-  HeaderHostname = "Daniel"
-  Email = "hello@danielsantiago.com.mx"
-  About = "Hola soy Daniel Santiago, co-fundador de nelli.tech"
-  ProfilePicture = "/daniel.png"
-  SlackURL = "your_slack_invite_url"
+about = "Hola soy Daniel Santiago, co-fundador de nelli.tech"
+email = "hello@danielsantiago.com.mx"
+facebookid = "your_facebook"
+githubid = "santiago02"
+googleplusid = "your_googleplus"
+headerhostname = "Daniel"
+headerusername = "Daniel"
+linkedinid = "your_linkedin"
+name = "Daniel Santiago"
+profilepicture = "/daniel.png"
+slackurl = "your_slack_invite_url"
+twitterid = "your_twitter"
