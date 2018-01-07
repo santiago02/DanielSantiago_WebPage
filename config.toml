@@ -1,8 +1,8 @@
-GoogleAnalytics = "UA-112069650-1"
 baseURL = "/"
 languageCode = "en-us"
 theme = "hugo-them-nix"
 title = "Daniel Santiago"
+
 [[menu.header]]
 name = "Acerca de"
 url = "/about"
@@ -24,3 +24,4 @@ name = "Daniel Santiago"
 profilepicture = "/daniel.png"
 slackurl = "your_slack_invite_url"
 twitterid = "your_twitter"
+GoogleAnalytics = "UA-112069650-1"
