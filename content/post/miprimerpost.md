@@ -1,7 +1,6 @@
 ---
-title: "Miprimerpost"
-date: 2017-12-29T23:33:57-06:00
-draft: false
----
+title: Miprimerpost
+date: 2017-12-29 23:33:57 -0600
 
+---
 hola
