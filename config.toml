@@ -2,7 +2,6 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "hugo-them-nix"
 title = "Daniel Santiago"
-
 [[menu.header]]
 name = "Acerca de"
 url = "/about"
@@ -16,6 +15,7 @@ about = "Hola soy Daniel Santiago, co-fundador de nelli.tech"
 email = "hello@danielsantiago.com.mx"
 facebookid = "daniel.santiago.94043"
 githubid = "santiago02"
+googleanalytics = "UA-112069650-1"
 googleplusid = "your_googleplus"
 headerhostname = "Daniel"
 headerusername = "Daniel"
@@ -23,5 +23,8 @@ linkedinid = "33537192"
 name = "Daniel Santiago"
 profilepicture = "/daniel.png"
 slackurl = "your_slack_invite_url"
+<<<<<<< HEAD
 twitterid = "dasr02"
 GoogleAnalytics = "UA-112069650-1"
+=======
+>>>>>>> 57f94307ce656d0beaf081ebb77f1da9b323a2ee
